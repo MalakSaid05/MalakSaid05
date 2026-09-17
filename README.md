@@ -21,6 +21,10 @@ I'm interested in **Frontend Development, UI/UX, and creative digital experience
 ✨ *The profile picture is one of my original digital illustrations.* ✨ 
 
 
+### 🚀 Featured Projects
+
+* **[Moonlight Cafe](https://malaksaid05.github.io/moonlight-cafe/)** | [Code Repository](https://github.com/MalakSaid05/moonlight-cafe)
+  * A responsive front-end cafe website built with pure HTML and CSS to practice web design fundamentals.
 
 
 
